@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meryouma26
 - 👀 I’m interested in data
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projrct about neurol network 
+- 💞️ I’m looking to collaborate on projrct about neural network 
 - 📫 meriem-touri@hotmail.com
 
 <!---
